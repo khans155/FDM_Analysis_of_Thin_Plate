@@ -1,1 +1,1 @@
-See: Finite_Difference_Method_for_Heat_Conduction_PDE.pdf
+README: [Finite_Difference_Method_for_Heat_Conduction_PDE.pdf](https://github.com/khans155/FDM_Analysis_of_Thin_Plate/blob/master/Finite_Difference_Method_for_Heat_Conduction_PDE.pdf)
